@@ -1,6 +1,9 @@
-# 🎶 Jellyfin Lyrics Plugin
+# 🎶 Jellyfin Lyrics Plugin for v10.10.7
 
 A plugin for **Jellyfin** that automatically downloads and displays lyrics for songs in your music library using [lrclib.net](https://lrclib.net).
+
+Looking for v10.11+ support?
+-> https://github.com/Felitendo/jellyfin-plugin-lyrics
 
 ---
 
