@@ -15,7 +15,7 @@ A plugin for **Jellyfin** that automatically downloads and displays lyrics for s
 
 ## 🚀 Installation
 
-1. Make sure your Jellyfin server is updated to **version 10.9.11 or higher**
+1. Make sure your Jellyfin server is **version 10.10.7**
 2. Add the plugin repository URL to Jellyfin:
    
        https://raw.githubusercontent.com/Felitendo/jellyfin-plugin-lyrics-v10.10.7/main/manifest.json
