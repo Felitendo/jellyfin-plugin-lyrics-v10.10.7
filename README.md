@@ -32,7 +32,7 @@ A plugin for **Jellyfin** that automatically downloads and displays lyrics for s
 ## 🛠️ Troubleshooting
 
 - **Plugin not appearing?**  
-  → Double check if your Jellyfin version is **10.9.11 or higher**
+  → Double check if your Jellyfin version is **10.10.7**
 
 - **Lyrics not showing?**  
   → Try to search for songs manually (right click on a song -> edit song text -> click on the search icon)
